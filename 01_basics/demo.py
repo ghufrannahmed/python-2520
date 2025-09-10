@@ -43,5 +43,5 @@ z = "Python"
 
 # Proper way of using Identifiers
 student_name = "Ravi"
-student_name = 30
+student_age = 30
 student_enrolled_course = "python"
