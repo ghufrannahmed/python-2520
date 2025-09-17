@@ -92,8 +92,8 @@ print(a is b) # Comparison of memory
 
 num1 = 5 # 0000000000000101
 num2 = 3 # 0000000000000011
-         # 000000000000111 (|)
+         # 0000000000000111(|)
          # 0000000000000001 (&)
 
 print(num1 & num2) 
-print(num1 | num2) 
+print(num1 | num2)
