@@ -87,6 +87,7 @@ print(x+y+z) # Addition Operator
 # name and age
 name = "Ravi"
 age = 20
+
 # print("My name is "+name+ " and my age is "+age) # TypeError: can only concatenate str (not "int") to str
 
 # My name is Ravi and my age is 20
